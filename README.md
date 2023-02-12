@@ -1,1 +1,1 @@
-# XS247
+# The XS247 CDN
